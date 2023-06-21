@@ -1,19 +1,19 @@
 # 💫About Me :
-👋 Xin chào! Tôi là Đinh Đức Anh, một lập trình viên đam mê và sẵn lòng khám phá những ngóc ngách mới trong ngành công nghệ thông tin.
+👋 Hello! I am Dinh Duc Anh, a programmer who is passionate and willing to explore new niches in the information technology industry.
 
-👋 Hiện dang học tại Vietnam-Korea School of Information and Communication Technology
+👋 Studying at Vietnam-Korea School of Information and Communication Technology.
 
-💻Tôi đặc biệt hứng thú với lĩnh vực AI và Computer Vision, và luôn tìm kiếm cách để nâng cao kỹ năng của mình trong lĩnh vực này.
+💻 I am particularly interested in AI and Computer Vision, and am always looking for ways to improve my skills in this area.
 
-🌟 Tôi đặt mục tiêu xây dựng các giải pháp công nghệ sáng tạo và hiệu quả. Tôi không chỉ quan tâm đến việc tạo ra mã nguồn chất lượng, mà còn quan tâm đến việc tạo ra trải nghiệm người dùng tốt nhất có thể. Điều này giúp tôi đảm bảo rằng sản phẩm cuối cùng sẽ mang lại giá trị thực sự cho người dùng.
+🌟 I aim to build innovative and effective technology solutions. I'm not only interested in creating quality code, but also in creating the best possible user experience. This helps me ensure that the end product will deliver real value to the user.
 
-🚀 Tôi đặc biệt yêu thích việc học tập và khám phá công nghệ mới. Tôi luôn tìm kiếm cơ hội để nâng cao kỹ năng của mình và áp dụng những kiến thức mới vào các dự án của mình. Ngoài ra, tôi cũng đánh giá cao việc hợp tác và trao đổi kiến thức với cộng đồng lập trình viên.
+🚀 I especially love learning and discovering new technology. I am always looking for opportunities to improve my skills and apply new knowledge in my projects. In addition, I also appreciate the cooperation and exchange of knowledge with the developer community.
 
-🌱 Trong profile GitHub của tôi, bạn có thể tìm thấy những dự án mà tôi đã tham gia và mã nguồn mà tôi đã đóng góp. Tôi cũng đang tạo ra các tài liệu và bài viết liên quan đến lĩnh vực mà tôi quan tâm.
+🌱 In my GitHub profile you can find the projects I've been involved with and the source code I've contributed to. I am also creating documents and articles related to my field of interest.
 
-📫 Nếu bạn quan tâm đến công việc hoặc dự án của tôi, xin vui lòng liên hệ với tôi qua email: ddanh260201@gmail.com.
+📫 If you are interested in my work or project, please contact me by email: ddanh260201@gmail.com.
 
-Tôi rất mong được hợp tác và chia sẻ kiến thức với các bạn. Cảm ơn đã ghé thăm profile GitHub của tôi!
+I look forward to collaborating and sharing knowledge with you. Thanks for visiting my GitHub profile!
 
 
 ## 🌐Socials
