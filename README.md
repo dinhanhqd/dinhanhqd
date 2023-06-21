@@ -1,7 +1,7 @@
 # 💫About Me :
 👋 Hello! I am Dinh Duc Anh, a programmer who is passionate and willing to explore new niches in the information technology industry.
 
-👋 Studying at Vietnam-Korea School of Information and Communication Technology.
+👋 Student at Vietnam - Korea University of Information and Communication Technology.
 
 💻 I am particularly interested in AI and Computer Vision, and am always looking for ways to improve my skills in this area.
 
